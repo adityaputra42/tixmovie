@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889856087002",
+    "project_id": "tix-movie-cdfas",
+    "storage_bucket": "tix-movie-cdfas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889856087002:android:e24c11beca3fec0e3166e3",
+        "android_client_info": {
+          "package_name": "com.example.tix_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889856087002-7gb9aiag5oeqcb7j8m0bpn60f66g5k4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8itLDM7RjbfaAiiklT4sQdzvQGigpgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889856087002-7gb9aiag5oeqcb7j8m0bpn60f66g5k4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
