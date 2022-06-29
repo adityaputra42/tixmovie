@@ -14,7 +14,7 @@ android ✔️
 
 ## Preview
 
-![FoodStore](assets/tixmovie.gif)
+![Tix Movie](assets/tixmovie.gif)
 
 <!-- <table>
   <tr>
